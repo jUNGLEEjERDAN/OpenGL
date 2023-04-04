@@ -1,0 +1,2 @@
+﻿LINK : warning LNK4098: defaultlib 'MSVCRT' conflicts with use of other libs; use /NODEFAULTLIB:library
+  Creating_Window.vcxproj -> E:\GitHub_Repo\OpenGL\00_Creating_Window\Creating_Window\x64\Debug\Creating_Window.exe
